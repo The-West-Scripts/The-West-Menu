@@ -6,7 +6,7 @@
 // @include https://*.the-west.*/game.php*
 // @include https://*.the-west.*/index.php?page=logout
 // @exclude https://classic.the-west.net*
-// @version 4.165
+// @version 4.166
 // @history https://tomrobert.safe-ws.de/changelog-lang=en.htm
 // @icon http://twm.pf-control.de/favicon.ico
 // @grant none
